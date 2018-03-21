@@ -1,0 +1,19 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "test npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feripratama/test-npm.git"
+  },
+  "author": "feripratama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feripratama/test-npm/issues"
+  },
+  "homepage": "https://github.com/feripratama/test-npm#readme"
+}
