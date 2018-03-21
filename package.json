@@ -1,7 +1,7 @@
 {
   "name": "test-npm",
   "version": "1.0.0",
-  "description": "test npm module",
+  "description": "test module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/feripratama/test-npm.git"
   },
-  "author": "feripratama",
+  "keywords": [
+    "first",
+    "module"
+  ],
+  "author": "feri pratama <eroorsys@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/feripratama/test-npm/issues"
